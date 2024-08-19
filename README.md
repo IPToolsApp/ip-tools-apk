@@ -1,7 +1,5 @@
 # IP Tools
-[![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/termux/termux-app/actions)
-[![Testing status](https://github.com/termux/termux-app/workflows/Unit%20tests/badge.svg)](https://github.com/termux/termux-app/actions)
-
+[![Build status](https://github.com/IPToolsApp/IPToolsApp/blob/main/badge.svg)](https:/github.com/IPToolsApp/ip-tools-apk/actions) [![Downloads](https://img.shields.io/github/downloads/IPToolsApp/ip-tools-apk/total.svg?color=blue?style=flat)](https://IPToolsApp/ip-tools-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/IPToolsApp/ip-tools-apk??color=bluelabel=version)](https://IPToolsApp/ip-tools-apk/releases)
 
 Powerful tool for check, analyze and setup networks. Helps to quickly detecting any computer net problems, ip address and help to improve wifi and mobile connection performance.
 
