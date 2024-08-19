@@ -29,7 +29,7 @@ Latest version supports Android 8.0+ (Android APi 26+) and legacy version for An
 
 ## Feedback 
 * Bug reports can be submitted [here](https://github.com/IPToolsApp/ip-tools-apk/issues).
-* Any ideas can be submitted [here](https://github.com//WiFiAnalyzer/discussions).
+* Any ideas can be submitted [here](https://github.com//IPToolsApp/ip-tools-apk/discussions).
 
 ## FAQ
 N/A
