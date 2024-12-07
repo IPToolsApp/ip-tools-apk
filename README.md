@@ -27,6 +27,11 @@ Download ip tools apk
 ## Compatibility
 Latest version supports Android 8.0+ (Android APi 26+) and [legacy](https://github.com/IPToolsApp/ip-tools-apk/releases/tag/8.70) version for Android 5.0+ (Android API 21+). All architectures.
 
+## Telegram Bot
+Bot for Telegram messenger available [here](https://t.me/ip_tools_bot).
+
+Our Telegram community: https://t.me/ip_tools.
+
 ## Feedback 
 * Bug reports can be submitted [here](https://github.com/IPToolsApp/ip-tools-apk/issues).
 * Any ideas can be submitted [here](https://github.com//IPToolsApp/ip-tools-apk/discussions).
